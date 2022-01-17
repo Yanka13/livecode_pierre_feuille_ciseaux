@@ -59,7 +59,7 @@ class Shifumi():
             print("dommage, la prochaine fois!")
 
 
-
+#This part will be only executed when executing the file directly -> python game.py
 if __name__ == "__main__":
     game = Shifumi()
     game.play()

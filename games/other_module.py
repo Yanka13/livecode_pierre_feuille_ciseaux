@@ -1,1 +1,2 @@
-from games.game import Shifumi
+def hello():
+    print("this code is executed after the game!")
